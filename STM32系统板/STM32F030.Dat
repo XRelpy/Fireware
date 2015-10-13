@@ -1,0 +1,19 @@
+Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32F030.PrjPcb|ReportField=ProjectFullPath~E:\DXP\STM32系统板\STM32F030.PrjPcb|ReportField=Title~Bill of Materials For Project [STM32F030.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~31|ReportField=ReportTime~14:36:14|ReportField=ReportDate~2015/4/27|ReportField=ReportDateTime~2015/4/27 14:36:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/4/27|ReportField=CurrentTime~14:36:06|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\DXP\STM32系统板\STM32F030.SchDoc|ReportField=DocumentName~STM32F030.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/4/24|ReportField=Organization~Altium Limited|ReportField=ProjectName~STM32F030.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~STM32F030.PrjPcb|ReportField=DataSourceFullPath~E:\DXP\STM32系统板\STM32F030.PrjPcb
+A型坦电容|C1, C3|A型坦电容|2
+0.1UF|C2, C4, C5, C6, C7, C8, C9|Cap Semi|7
+10PF|C10, C11|Cap Semi|2
+20PF|C12, C13|Cap Semi|2
+LED|D1|LED2|1
+七脚拨动开关|H1|七脚拨动开关|1
+微动开关|H2|微动开关|1
+Header 11|P1, P2, P3, P4|Header 11|4
+Header 3|P5|Header 3|1
+1K|R1|Res3|1
+0|R2|Res3|1
+510|R3|Res3|1
+10K|R4, R5|Res3|2
+USB母座|U1|MicroUSB母座|1
+AMS1117|U2|AMS1117|1
+STM32F030C8T6|U3|STM32F030C8T6|1
+31.768Khz|Y1|31.768khz(3*8)|1
+8Mhz|Y2|晶振|1

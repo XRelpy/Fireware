@@ -1,0 +1,38 @@
+Change Component Parameter Description in C1 Old= New=C?
+Change Component Parameter Description in C2 Old= New=C?
+Change Component Parameter Description in U1 Old= New=U?
+Change Component Parameter Description in U2 Old= New=U?
+Change Component Parameter Description in U3 Old= New=U?
+Change Component Parameter Description in U4 Old= New=U?
+Change Component Parameter Comment in Y1 Old= New=8MHZ
+Replace Symbol from C1 A型坦电容 in E:\DXP\STM32F030C8T6\Power.SchDoc with A型坦电容 from KindSword.IntLib
+Replace Symbol from C2 A型坦电容 in E:\DXP\STM32F030C8T6\Power.SchDoc with A型坦电容 from KindSword.IntLib
+Replace Symbol from C3 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C4 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C5 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C6 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C7 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C8 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from C9 Cap Semi in E:\DXP\STM32F030C8T6\Power.SchDoc with Cap Semi from Miscellaneous Devices.IntLib
+Replace Symbol from D1 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D2 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D3 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D4 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D5 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D6 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D7 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D8 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from D9 LED2 in E:\DXP\STM32F030C8T6\Power.SchDoc with LED2 from Miscellaneous Devices.IntLib
+Replace Symbol from H1 七脚拨动开关 in E:\DXP\STM32F030C8T6\Power.SchDoc with 七脚拨动开关 from KindSword.IntLib
+Replace Symbol from P1 Header 16 in E:\DXP\STM32F030C8T6\Power.SchDoc with Header 16 from Miscellaneous Connectors.IntLib
+Replace Symbol from P2 Header 2X2 in E:\DXP\STM32F030C8T6\Power.SchDoc with Header 2X2 from Miscellaneous Connectors.IntLib
+Replace Symbol from R1 Res3 in E:\DXP\STM32F030C8T6\Power.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Symbol from R2 Res3 in E:\DXP\STM32F030C8T6\Power.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Symbol from R3 Res3 in E:\DXP\STM32F030C8T6\Power.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Symbol from R4 Res3 in E:\DXP\STM32F030C8T6\Power.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Symbol from R5 Res3 in E:\DXP\STM32F030C8T6\Power.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Symbol from U1 74HC138 in E:\DXP\STM32F030C8T6\Power.SchDoc with 74HC138 from KindSword.IntLib
+Replace Symbol from U2 AMS1117 in E:\DXP\STM32F030C8T6\Power.SchDoc with AMS1117 from KindSword.IntLib
+Replace Symbol from U3 Micro-USB in E:\DXP\STM32F030C8T6\Power.SchDoc with Micro-USB from KindSword.IntLib
+Replace Symbol from U4 PL2303HX in E:\DXP\STM32F030C8T6\Power.SchDoc with PL2303HX from KindSword.IntLib
+Replace Symbol from Y1 晶振 in E:\DXP\STM32F030C8T6\Power.SchDoc with 晶振 from KindSword.IntLib

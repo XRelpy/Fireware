@@ -1,0 +1,5 @@
+Change Component Comment : Designator=LED4 Old Comment=LED2 New Comment=LED1
+Added Pin To Net: NetName=USB-VCC Pin=U3-1
+Added Pin To Net: NetName=USB_D- Pin=U3-2
+Added Pin To Net: NetName=USB_D+ Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5

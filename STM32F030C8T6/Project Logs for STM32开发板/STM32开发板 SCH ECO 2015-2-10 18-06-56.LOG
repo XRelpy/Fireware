@@ -1,0 +1,26 @@
+Remove Pin=P3-5 From Net=PA14
+Remove Pin=P3-6 From Net=PA15
+Remove Pin=P3-7 From Net=PC13
+Remove Pin=P3-8 From Net=PB3
+Remove Pin=P3-9 From Net=PB4
+Remove Pin=P3-10 From Net=PB5
+Remove Pin=P3-11 From Net=PB6
+Remove Pin=P3-12 From Net=PB7
+Remove Pin=P3-13 From Net=PB8
+Remove Pin=P3-14 From Net=PB9
+Remove Pin=P3-17 From Net=PB12
+Remove Pin=P3-18 From Net=PB13
+Add Pin To Net: Pin=P3-5 Old Net=PA14 New Net=PB9
+Add Pin To Net: Pin=P3-6 Old Net=PA15 New Net=PC13
+Add Pin To Net: Pin=P3-7 Old Net=PC13 New Net=PB7
+Add Pin To Net: Pin=P3-8 Old Net=PB3 New Net=PB8
+Add Pin To Net: Pin=P3-9 Old Net=PB4 New Net=PB5
+Add Pin To Net: Pin=P3-10 Old Net=PB5 New Net=PB6
+Add Pin To Net: Pin=P3-11 Old Net=PB6 New Net=PB3
+Add Pin To Net: Pin=P3-12 Old Net=PB7 New Net=PB4
+Add Pin To Net: Pin=P3-13 Old Net=PB8 New Net=PA14
+Add Pin To Net: Pin=P3-14 Old Net=PB9 New Net=PA15
+Add Pin To Net: Pin=P3-17 Old Net=PB12 New Net=PB13
+Add Pin To Net: Pin=P3-18 Old Net=PB13 New Net=PB12
+Add Pin To Net: Pin=H1-1 Old Net=NetH1_1 New Net=VCC-3.3
+Add Pin To Net: Pin=H1-3 Old Net=NetH1_3 New Net=VCC-5

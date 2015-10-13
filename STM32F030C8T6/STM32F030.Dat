@@ -1,0 +1,18 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32开发板.PrjPcb|ReportField=ProjectFullPath~E:\DXP\STM32F030C8T6\STM32开发板.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [STM32F030.PcbDoc]|ReportField=TotalQuantity~57|ReportField=ReportTime~11:02:55|ReportField=ReportDate~2015/2/18|ReportField=ReportDateTime~2015/2/18 11:02:55|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~STM32F030.PcbDoc|ReportField=DataSourceFullPath~E:\DXP\STM32F030C8T6\STM32F030.PcbDoc
+Header 10X2|Header, 10-Pin, Dual row||HDR2X10|Header 10X2|1
+Header 16|Header, 16-Pin|1602|HDR1X16|Header 16|1
+47uF||C1, C2|A型坦电容|A型坦电容|2
+Cap Semi|Capacitor (Semiconductor SIM Model)|C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20|C1206|Cap Semi|18
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D5, LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8|3.2X1.6X1.1|LED2|9
+微动开关|H?|Key_0, Key_1, Rest|微动开关|微动开关|3
+Header 2X2|Header, 2-Pin, Dual row|MCU|HDR2X2|Header 2X2|1
+Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12|14-1210|Res3|12
+74HC138||U1|74HC138|74HC138|1
+AMS1117-3.3V||U2|AMS1117|AMS1117|1
+USB|U?|U3|MICRO USB|Micro-USB|1
+PL2303HX||U4|PL2303HX|PL2303HX|1
+STM32F030|U?|U5|TSQFP50P900X900X160-48N|STM32F030C8T6|1
+12MHZ|Y?|Y1|晶振|晶振|1
+8MHZ|Y?|Y2|晶振|晶振|1
+XTAL|Crystal Oscillator|Y3|R38|XTAL|1
+七脚拨动开关|H?|[NoValue], Boot|七脚拨动开关|七脚拨动开关|2

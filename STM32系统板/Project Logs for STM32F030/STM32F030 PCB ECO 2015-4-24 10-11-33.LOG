@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=OSC_IN Pin=C10-2
+Removed Pin From Net: NetName=OSC_OUT Pin=C11-2
+Removed Pin From Net: NetName=OSC32_IN Pin=C12-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=GND Pin=H1-GND
+Removed Pin From Net: NetName=OSC_IN Pin=Y1-0
+Removed Pin From Net: NetName=OSC_OUT Pin=Y1-1
+Removed Pin From Net: NetName=OSC32_OUT Pin=Y2-1
+Removed Pin From Net: NetName=OSC32_IN Pin=Y2-2
+Added Pin To Net: NetName=OSC32_IN Pin=C10-2
+Added Pin To Net: NetName=OSC32_OUT Pin=C11-2
+Added Pin To Net: NetName=OSC_IN Pin=C12-2
+Added Pin To Net: NetName=OSC_OUT Pin=C13-2
+Added Pin To Net: NetName=OSC32_IN Pin=Y1-0
+Added Pin To Net: NetName=OSC32_OUT Pin=Y1-1
+Added Pin To Net: NetName=OSC_OUT Pin=Y2-1
+Added Pin To Net: NetName=OSC_IN Pin=Y2-2
+Added Room: Name=STM32F030

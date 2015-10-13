@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=STM32开发板.SchDoc|Designator=STM32核心板|SchDesignator=STM32核心板|FileName=STM32F030.SchDoc|SymbolType=Normal|RawFileName=STM32F030.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32开发板.SchDoc|Designator=电源串口|SchDesignator=电源串口|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=STM32开发板.SchDoc
