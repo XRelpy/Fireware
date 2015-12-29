@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD Pin=R21-0
+Removed Pin From Net: NetName=VDD Pin=U4-8
+Added Pin To Net: NetName=NetR21_0 Pin=R21-0
+Added Pin To Net: NetName=NetR21_0 Pin=U4-8
+Added Net: Name=NetR21_0

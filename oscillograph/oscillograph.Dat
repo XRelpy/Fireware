@@ -1,0 +1,13 @@
+Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~134|Field=Footprint~String~Footprint~122|Field=LibRef~String~LibRef~122|Field=Quantity~Integer~Quantity~122|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~oscillograph.PrjPcb|ReportField=ProjectFullPath~E:\DXP\oscillograph\oscillograph.PrjPcb|ReportField=Title~Bill of Materials For Project [oscillograph.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~56|ReportField=ReportTime~19:13:48|ReportField=ReportDate~2015/12/27|ReportField=ReportDateTime~2015/12/27 19:13:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/12/27|ReportField=CurrentTime~19:12:58|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\DXP\oscillograph\oscillograph.SchDoc|ReportField=DocumentName~oscillograph.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/12/27|ReportField=Organization~Altium Limited|ReportField=ProjectName~oscillograph.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~oscillograph.PrjPcb|ReportField=DataSourceFullPath~E:\DXP\oscillograph\oscillograph.PrjPcb
+AT24C32|AT24C32|AT1|AT24|AT24C32|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12|1608[0603]|Cap Semi|12
+U?|CD4051|CD1|cd4051|CD4051B|1
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1, D2|3.2X1.6X1.1|LED2|2
+|L?|Logo1|logo|logo|1
+BNC|BNC Elbow Connector|P1|BNC_RA CON|BNC|1
+Header 4|Header, 4-Pin|P2, P3, P4|HDR1X4|Header 4|3
+Header 2|Header, 2-Pin|P5|HDR1X2|Header 2|1
+2N3904|NPN General Purpose Amplifier|Q1, Q2, Q3|TO-92A|2N3904|3
+可调电阻|R?|R1, R2, R3, R21|3296可调电阻|3296可调电阻|4
+Res3|Resistor|R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R24, R25, R26, R27|J1-0603|Res3|23
+OP07CD|OP07CD|U1, U2, U3, U4|OP07C|OP07CD|4

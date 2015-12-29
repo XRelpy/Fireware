@@ -1,0 +1,17 @@
+"Bill of Material for "
+"On 2015/12/27 at 19:12:05"
+
+"Comment","Pattern","Quantity","Components"
+
+"","logo","1","Logo1","L?"
+"2N3904","TO-92A","3","Q1, Q2, Q3","NPN General Purpose Amplifier"
+"AT24C32","AT24","1","AT1","AT24C32"
+"BNC","BNC_RA CON","1","P1","BNC Elbow Connector"
+"Cap Semi","1608[0603]","12","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12","Capacitor (Semiconductor SIM Model)"
+"Header 2","HDR1X2","1","P5","Header, 2-Pin"
+"Header 4","HDR1X4","3","P2, P3, P4","Header, 4-Pin"
+"LED2","3.2X1.6X1.1","2","D1, D2","Typical RED, GREEN, YELLOW, AMBER GaAs LED"
+"OP07CD","OP07C","4","U1, U2, U3, U4","OP07CD"
+"Res3","J1-0603","23","R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R24, R25, R26, R27","Resistor"
+"U?","cd4051","1","CD1","CD4051"
+"可调电阻","3296可调电阻","4","R1, R2, R3, R21","R?"
